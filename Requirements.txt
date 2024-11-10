@@ -6,6 +6,7 @@ pip install loguru
 pip install fake_useragent
 pip install websockets_proxy
 pip install websockets
+python Main.py
 
 pip install websockets_proxy
 pip install websockets==12.0
